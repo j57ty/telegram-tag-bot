@@ -1,0 +1,12 @@
+# Environment secrets
+.env
+
+# SQLite Database
+tags.db
+tags.db-journal
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
